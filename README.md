@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SameerChaudharyOp
-- 👀 I’m interested in Web Development
+- 👀 I’m A Web Developer
 - 🌱 I’m currently learning JavaScript React
 - 💞️ I’m looking to collaborate on Any opportunities
 - 📫 How to reach me Gmail: Sameerchaudhary749@gmail.com
